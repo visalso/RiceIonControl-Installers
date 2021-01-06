@@ -1,0 +1,23 @@
+name: RiceIonControl
+dependencies:
+   - python=3.6
+   - cython
+   - dill
+   - h5py
+   - locket
+   - lxml
+   - matplotlib
+   - networkx
+   - plotly
+   - ply
+   - psutil
+   - psycopg2
+   - pyparsing
+   - pyqt
+   - pytz
+   - pyyaml
+   - reportlab
+   - scipy
+   - sympy
+   - wrapt
+   - pip
